@@ -1,0 +1,15 @@
+INSERT IGNORE INTO `wp_st_location_nested` (`id`, `location_id`, `location_country`, `parent_id`, `left_key`, `right_key`, `name`, `fullname`, `language`, `status`) VALUES
+(1, 0, NULL, 0, 1, 28, 'root', 'root', NULL, 'private_root'),
+(2, 49, '', 1, 2, 3, 'United States', 'United States', 'en', 'trash'),
+(3, 54, '', 1, 4, 27, 'United States', 'United States', 'en', 'publish'),
+(4, 55, '', 3, 5, 6, 'California', 'California, United States', 'en', 'publish'),
+(5, 56, '', 3, 7, 8, 'Los Angeles', 'Los Angeles, United States', 'en', 'publish'),
+(6, 57, '', 3, 9, 10, 'Nevada', 'Nevada, United States', 'en', 'publish'),
+(7, 58, '', 3, 11, 16, 'New Jersey', 'New Jersey, United States', 'en', 'publish'),
+(8, 61, '', 3, 21, 22, 'New York City', 'New York City, United States', 'en', 'publish'),
+(9, 62, '', 3, 17, 20, 'San Francisco', 'San Francisco, United States', 'en', 'publish'),
+(10, 64, '', 3, 23, 26, 'Virginia', 'Virginia, United States', 'en', 'publish'),
+(11, 59, '', 7, 12, 13, 'Delaware', 'Delaware, New Jersey, United States', 'en', 'publish'),
+(12, 60, '', 7, 14, 15, 'Philadelphia', 'Philadelphia, New Jersey, United States', 'en', 'publish'),
+(13, 63, '', 9, 18, 19, 'Wilmington', 'Wilmington, San Francisco, United States', 'en', 'publish'),
+(14, 65, '', 10, 24, 25, 'Virginia Beach', 'Virginia Beach, Virginia, United States', 'en', 'publish');

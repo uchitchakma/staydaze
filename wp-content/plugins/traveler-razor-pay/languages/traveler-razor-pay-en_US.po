@@ -1,0 +1,143 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wooler Smart Search\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-28 15:47+0700\n"
+"PO-Revision-Date: 2024-03-28 15:48+0700\n"
+"Last-Translator: \n"
+"Language-Team: Wooler\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_html__;esc_attr_e;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/process-package.php:85 inc/process.php:82
+msgid ""
+"Thank you for your order, please click the button below to pay with Razorpay."
+msgstr ""
+
+#: inc/process-package.php:110 inc/process.php:107
+msgid "Order"
+msgstr ""
+
+#: inc/process-package.php:122 inc/process.php:115
+msgid "Order id"
+msgstr ""
+
+#: inc/process-package.php:123 inc/process.php:116
+msgid "Full Name"
+msgstr ""
+
+#: inc/process-package.php:124 inc/process.php:117
+msgid "Email"
+msgstr ""
+
+#: inc/process-package.php:125 inc/process.php:118
+msgid "Phone"
+msgstr ""
+
+#: inc/process-package.php:349 inc/process.php:344
+msgid "Please wait while we are processing your payment."
+msgstr ""
+
+#: inc/process-package.php:352 inc/process.php:347
+msgid "Pay Now"
+msgstr ""
+
+#: inc/process-package.php:353 inc/process.php:348
+msgid "Cancel"
+msgstr ""
+
+#: inc/process.php:119
+msgid "Address"
+msgstr ""
+
+#: inc/process.php:120
+msgid "City"
+msgstr ""
+
+#: inc/process.php:121
+msgid "Zip / Code"
+msgstr ""
+
+#: inc/process.php:122
+msgid "Country"
+msgstr ""
+
+#: inc/process.php:123
+msgid "Note"
+msgstr ""
+
+#: inc/razor.php:55
+msgid "Razor Pay Notice:"
+msgstr ""
+
+#: inc/razor.php:58
+#, php-format
+msgid ""
+"<strong>ST Razor Pay</strong> require %s version %s or above. Your current "
+"is %s"
+msgstr ""
+
+#: inc/razor.php:58
+msgid "Traveler Code"
+msgstr ""
+
+#: inc/razor.php:63
+msgid "Learn how to update it"
+msgstr ""
+
+#: inc/razor.php:67 inc/razor.php:70
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/razor.php:83
+msgid "Key ID"
+msgstr ""
+
+#: inc/razor.php:86 inc/razor.php:94
+msgid ""
+"The key Id and key secret can be generated from \"API Keys\" section of "
+"Razorpay Dashboard. Use test or live for test or live mode."
+msgstr ""
+
+#: inc/razor.php:91
+msgid "Key Secret"
+msgstr ""
+
+#: inc/razor.php:99
+msgid "Payment Action"
+msgstr ""
+
+#: inc/razor.php:104
+msgid "Authorize"
+msgstr ""
+
+#: inc/razor.php:108
+msgid "Authorize and Capture"
+msgstr ""
+
+#: inc/razor.php:113
+msgid "Payment action on order compelete"
+msgstr ""
+
+#: inc/razor.php:131
+msgid "This function is off"
+msgstr ""
+
+#: inc/razor.php:178
+msgid "Payment after create order"
+msgstr ""
+
+#: inc/razor.php:184
+msgid "ST Razor"
+msgstr ""
+
+#: traveler-razor-pay.php:13
+msgid "Hi there!  I'm just a plugin, not much I can do when called directly."
+msgstr ""

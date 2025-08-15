@@ -1,0 +1,6 @@
+p.pay-button , p#msg-razorpay-success , p.notice-success{
+    text-align: center;
+    font-size: 16px;
+    color: var(--grey-color, #5E6D77);
+    margin-bottom: 20px;
+}
